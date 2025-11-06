@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+
+# Xcode
+DerivedData/
+xcodeproj.xcworkspace/
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.xcuserstate
+*.swiftpm/
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# SwiftLint / Formatting
+.swiftlint.tmp/
+.swiftformat.tmp/
+
+# Logs
+*.log
+
+# User-specific configuration
+*.env
+*.local
+
+# Xcode playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# App-specific caches
+PlayHub/Logs/
+PlayHub/Temp/
+
+# Generated localization files
+PlayHub/Resources/Localizable/**/*.stringsdict
+
