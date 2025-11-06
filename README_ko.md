@@ -4,6 +4,8 @@ PlayHub은 macOS에서 iOS 시뮬레이터와 Android 에뮬레이터를 하나�
 
 **English version available:** see [`README.md`](README.md).
 
+<img width="1641" height="886" alt="스크린샷 2025-11-06 오후 11 45 00" src="https://github.com/user-attachments/assets/06d382dd-c4d9-450d-98c6-e4bf226a2767" />
+
 ## ✨ 주요 기능
 
 - **통합 워크스페이스:** iOS·Android 가상 디바이스를 한 화면에서 탐색, 검색, 필터링합니다.
