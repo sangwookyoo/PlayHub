@@ -4,6 +4,8 @@ PlayHub is a macOS desktop tool that unifies iOS Simulators and Android Emulator
 
 **한국어 버전:** [`README_ko.md`](README_ko.md)
 
+<img width="1641" height="886" alt="스크린샷 2025-11-06 오후 11 45 00" src="https://github.com/user-attachments/assets/06d382dd-c4d9-450d-98c6-e4bf226a2767" />
+
 ## ✨ Features
 
 * **Unified Workspace:** Browse, search, and filter iOS and Android virtual devices on a single screen.
